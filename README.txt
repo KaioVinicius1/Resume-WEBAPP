@@ -1,3 +1,6 @@
+Atividade da faculdade para um webapp usando um template com primeiras alterações datadas em 15/02/23 na sala de aula.
+ programa tem intuito de divulgar sinopses e avalições de filmes.
+
 Phantom by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
